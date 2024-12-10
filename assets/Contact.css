@@ -1,0 +1,21 @@
+:root {
+  --gray-25: #fcfcfc; /* Snow White */
+  --gray-50: #fafafa; /* Ice White */
+  --gray-100: #f4f4f5; /* Soft Gray */
+  --gray-200: #e4e4e7; /* Light Gray */
+  --gray-300: #d1d1d6; /* Pale Gray */
+  --gray-400: #a0a0ab; /* Cool Gray */
+  --gray-500: #70707b; /* Medium Gray */
+  --gray-600: #51525c; /* Deep Gray */
+  --gray-700: #3f3f46; /* Charcoal Gray */
+  --gray-800: #26272b; /* Dark Charcoal */
+  --gray-900: #18181b; /* Jet Black */
+}
+
+@import url("./Satoshi_Complete/Satoshi_Complete/Fonts/WEB/css/satoshi.css");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
